@@ -124,7 +124,7 @@ const questions = [
         message: 'Choose license',
         choices: ['Apache', 'MIT', 'Mozilla-Public', 'GNU-General-Public', 'Common-Development-and Distribution', 'None'],
         validate: licensingInput => {
-            if (licensingInput) {
+            if (licensingInput.length>0) {
                 return true;
             } else {
                 console.log('You must pick a license for the project!');
