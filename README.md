@@ -7,7 +7,7 @@
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contribution](#contribution)
+  - [Contributors](#contributors)
   - [Additional Info](#additional-info)
   ## Description:
   GIVEN a command-line application that accepts user input
