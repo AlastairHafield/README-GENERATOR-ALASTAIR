@@ -8,6 +8,7 @@ function generateMarkdown(data) {
   - [Contributors](#contributors)
   - [Testing](#testing)
   - [Additional Info](#additional-info)
+  - [Questions and Contribution instructions](#questions-and-contribution-instructions)
   ## Description:
   ${data.description}
   ## Installation:
