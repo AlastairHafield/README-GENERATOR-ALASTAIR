@@ -9,7 +9,6 @@
   - [Usage](#usage)
   - [Contributors](#contributors)
   - [Additional Info](#additional-info)
-  - [Questions and Contribution instructions](#questions-and-contribution-instructions)
   ## Description:
   GIVEN a command-line application that accepts user input
   WHEN I am prompted for information about my application repository
@@ -23,7 +22,7 @@
   * Input command 'node .'
   * Follow prompts to generate README
   * README will be generated in repo files. 
-  ## Contribution:
+  ## Contributors:
   AlastairHafield
   ## Additional Info:
   - Github: [AlastairHafield](https://github.com/AlastairHafield)
