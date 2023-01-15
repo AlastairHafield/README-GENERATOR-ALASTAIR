@@ -56,7 +56,7 @@ const questions = [
             if (usageInput) {
                 return true;
             } else {
-                console.log('You need to provide information on how to use project!');
+                console.log('You need to provide usage information');
                 return false;
             }
         }
@@ -64,13 +64,13 @@ const questions = [
     // Contribution Guidlines
     {
         type: 'input',
-        name: 'contribution',
+        name: 'contributors',
         message: 'Contributors',
         validate: contributionInput => {
             if (contributionInput) {
                 return true;
             } else {
-                console.log('You need to provide information on how to contribute to the project!');
+                console.log('You need to provide contributors names!');
                 return false;
             }
         }
@@ -103,11 +103,19 @@ const questions = [
             }
         }
     },
-    // Email Address
+    // Question Email Address
     {
         type: 'input',
         name: 'email',
-        message: 'Email',
+        message: 'Email for questions and contributors contact',
+        validate: emailInput => {
+            if (emailInput) {
+                return true;
+            } else {
+                console.log('Please enter your email!');
+                return false;
+            }
+        }
     },
      // License Options
     {
