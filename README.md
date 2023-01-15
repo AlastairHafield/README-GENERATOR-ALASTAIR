@@ -28,4 +28,4 @@
   - Github: [AlastairHafield](https://github.com/AlastairHafield)
   - Email: Alastairhatfield@live.com 
   ## Licensing:
-  [![license](https://img.shields.io/badge/license--blue)]
+  ![license](https://img.shields.io/badge/license--blue)
