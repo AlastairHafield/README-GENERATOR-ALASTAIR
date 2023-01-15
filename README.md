@@ -9,6 +9,7 @@
   - [Usage](#usage)
   - [Contributors](#contributors)
   - [Additional Info](#additional-info)
+  - [Questions and Contribution instructions](#questions-and-contribution-instructions)
   ## Description:
   GIVEN a command-line application that accepts user input
   WHEN I am prompted for information about my application repository
