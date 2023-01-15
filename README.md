@@ -1,4 +1,8 @@
 # README generator 
+  ## Video 
+  https://drive.google.com/file/d/1n4PFMSQFQZF159riLZ73ebGaop-8pIOe/view
+  ## Screenshot
+  ![README SCREENSHOT](https://user-images.githubusercontent.com/114833466/212504641-e2c04c59-586a-4877-861b-b97fb8d6029a.png)
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
